@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WittyDog/iut-encrypt/issues"
   },
-  "homepage": "https://github.com/WittyDog/iut-encrypt#readme"
+  "homepage": "https://github.com/WittyDog/iut-encrypt#readme",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
 }
