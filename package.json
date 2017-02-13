@@ -1,0 +1,19 @@
+{
+  "name": "@wittydog/iut-encrypt-lala",
+  "version": "1.0.0",
+  "description": "Password encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WittyDog/iut-encrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WittyDog/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/WittyDog/iut-encrypt#readme"
+}
